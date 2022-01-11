@@ -1,0 +1,13 @@
+body {
+    background-color: rgba(95, 158, 160, 0.637);
+    text-align: center;
+}
+
+.object {
+    margin-top: 50px;
+}
+
+.object p {
+    font-size: 20px;
+    line-height: 30px;
+}

@@ -1,0 +1,21 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+form {
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 30px 20px;
+}
+
+form label {
+    display: block;
+    margin: 15px 0 7px 0;
+}
