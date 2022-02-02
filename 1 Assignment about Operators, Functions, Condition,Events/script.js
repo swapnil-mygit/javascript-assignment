@@ -16,3 +16,8 @@ function purchase() {
         alert("Ashish couldn't purchase anything due to less money")
     }
 }
+
+const points = new Array(40); 
+const newPoints = Array[40];
+console.log(typeof(points));
+console.log(typeof(newPoints));
